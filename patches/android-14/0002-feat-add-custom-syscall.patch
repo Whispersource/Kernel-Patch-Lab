@@ -1,0 +1,8 @@
+
+// Update at 2026-02-22T06:45:00.176061
+diff --git a/arch/arm64/kernel/syscall_tbl.c b/arch/arm64/kernel/syscall_tbl.c
+index ...
+--- a/arch/arm64/kernel/syscall_tbl.c
++++ b/arch/arm64/kernel/syscall_tbl.c
+@@ -10,6 +10,7 @@
++__SYSCALL(380, sys_custom_debug_call)
