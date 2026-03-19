@@ -54,3 +54,11 @@ index ...
 +++ b/security/selinux/hooks.c
 @@ -123,6 +123,7 @@
 +    // Allow custom service access
+
+// Update at 2026-03-19T08:45:00.176061
+diff --git a/security/selinux/hooks.c b/security/selinux/hooks.c
+index ...
+--- a/security/selinux/hooks.c
++++ b/security/selinux/hooks.c
+@@ -123,6 +123,7 @@
++    // Allow custom service access
